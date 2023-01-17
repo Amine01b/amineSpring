@@ -1,0 +1,4 @@
+com\mycompany\formationspring\demo\DemoApplication.class
+com\mycompany\formationspring\demo\entity\Contact.class
+com\mycompany\formationspring\demo\controller\ContactController.class
+com\mycompany\formationspring\demo\repository\ContactRepository.class
